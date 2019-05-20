@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Chess Knight Moves</string>
+    <string name="set_start_point">Click to set start position</string>
+    <string name="set_end_point">Click to set end position</string>
+    <string name="tap_clear">Tap on CLEAR button for new positions</string>
+    <string name="no_result">No solution has been found!</string>
+    <string name="clear_button">CLEAR</string>
+</resources>

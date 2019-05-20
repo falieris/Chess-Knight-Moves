@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_start_point">Επέλεξε θέση έναρξης</string>
+    <string name="set_end_point">Επέλεξε θέση τερματισμού</string>
+    <string name="no_result">Δεν βρέθηκε λύση!</string>
+    <string name="clear_button">ΚΑΘΑΡΙΣΜΟΣ</string>
+    <string name="tap_clear">Πάτα ΚΑΘΑΡΙΣΜΟΣ για ορισμό νέων θέσεων</string>
+</resources>
